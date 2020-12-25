@@ -247,4 +247,4 @@ def counting_vehicle(video_input, video_output, skip_frame=1):
 
 
 if __name__ == '__main__':
-    counting_vehicle('1.mp4', 'vehicles.avi')
+    counting_vehicle('input_1.mp4', 'output.avi')
