@@ -1,6 +1,6 @@
 # Vehicle Counting
 
-# Get YOLOV3_Tiny at https://pjreddie.com/darknet/yolo/
+Get YOLOV3_Tiny at https://pjreddie.com/darknet/yolo/
 
 CFG = 'yolov3-tiny.cfg'
 
